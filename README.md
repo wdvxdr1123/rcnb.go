@@ -1,4 +1,4 @@
-# RCNB.js ![CI](https://github.com/wdvxdr1123/rcnb.go/workflows/Go/badge.svg)
+# RCNB.Go ![CI](https://github.com/wdvxdr1123/rcnb.go/workflows/Go/badge.svg)
 
 The world is based on RC. Thus, *everything* can be encoded into RCNB.
 
